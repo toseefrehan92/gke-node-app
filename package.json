@@ -1,0 +1,25 @@
+{
+  "name": "gke-node-app",
+  "version": "1.0.0",
+  "description": "Deploy Node App to GKE using GCP SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toseefrehan92/gke-node-app.git"
+  },
+  "keywords": [
+    "GKE"
+  ],
+  "author": "Tauseef Rehan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toseefrehan92/gke-node-app/issues"
+  },
+  "homepage": "https://github.com/toseefrehan92/gke-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
